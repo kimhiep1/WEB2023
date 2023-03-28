@@ -324,3 +324,34 @@
     font-size: 2.6rem;
     margin-right: 0;
 }
+.home_product-item.img{
+    width: 15%;
+    height: 25vh;
+}
+.home_product{
+    display: inline-flex;
+    width: 100%;
+}
+.grid_colum-3{
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 24%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.home_product{
+    display: flex;
+    flex-wrap: wrap;
+}
+.home_product-item{
+
+}
+.home_product-item-img img{
+    width: 100%;
+}
+.home_product-item-name{
+    
+}
+.home_product-item-price{
+    
+}
